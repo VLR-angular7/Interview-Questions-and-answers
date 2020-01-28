@@ -1,11 +1,26 @@
         -----------------ANGULAR CLASS 1 and CLASS 2 Interview Questions--------------
 1. What is Angular framework ?
+2.What are the features or advantages of Angular ?
 2. What is Angular CLI and why CLI ?
 3.What is difference between Angular JS(1.X) and Angular(2 and above) ?
 4.What is package.json file in angular app and why package.json ?
-5.Can you create your own package.json, If yes how to create package.json ?
+5.Can you create package.json, If yes how to create package.json ?
 6.How to create angular Project using Angular CLI ?
 7.Can you create angular project without using Angular CLI ?
 8.Can you list some of Angular CLI Commands ?
 9.What is node_modules folder in angular app ?
-10. what is the difference between dependencies and devdependencies in package.json file ?
+10.What is the difference between dependencies and devdependencies in package.json file ?
+11.Can you draw the high-level architecture of angular application and explain it ?
+12.What is module in angular ?
+13.How angular app get starts (or) run and what is the entry point to start angular app ?
+14.What are the key components of angular ?
+15.What is component and why components are important in angular ?
+16.How to create component in angular ?
+16.what is metadata in angular ? 
+17.What is decorator in angular ?
+18.What is selector in component metadata?
+19.what is template ?
+20.What is difference between template and templateUrl ?
+21.What is difference between styles and stylesUrl ?
+22.Can you insert component inside another component ?
+23.What is nested components in angular ?
